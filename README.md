@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeynab Aghajani.
 - 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Science Projects and Python Projects.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on html and Python Projects.
 - 📫 How to reach me: Zeynab.aghajani@hotmail.com
 
 <!---
