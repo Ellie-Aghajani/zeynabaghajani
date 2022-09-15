@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeynab Aghajani. My nickname is Ellie.
-- 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on html and Python Projects.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning back-end web development.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: Zeynab.aghajani@hotmail.com
 
 <!---
